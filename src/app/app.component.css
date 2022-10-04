@@ -1,0 +1,15 @@
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: blue;
+    text-align: center;
+    margin: 15px;
+}
+span{
+    color: blue;
+}
+p{
+    font-size: xx-small;
+    text-align: center;
+}
